@@ -47,6 +47,7 @@
 		7FF0BAE625913C7E00753AA1 /* CurrencyPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyPresenter.swift; sourceTree = "<group>"; };
 		7FF0BAEA25913EEB00753AA1 /* CurrencyVC + Delegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CurrencyVC + Delegate.swift"; sourceTree = "<group>"; };
 		7FF0BAF025914C5E00753AA1 /* CurrencyCalculation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyCalculation.swift; sourceTree = "<group>"; };
+		7FF0BAFC259156C700753AA1 /* questionsAnswers */ = {isa = PBXFileReference; lastKnownFileType = text; path = questionsAnswers; sourceTree = "<group>"; };
 		83014B6F7CDD762137F0EF49 /* Pods-BlackStone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlackStone.release.xcconfig"; path = "Target Support Files/Pods-BlackStone/Pods-BlackStone.release.xcconfig"; sourceTree = "<group>"; };
 		AF73AAC77E119BBEC2045ABB /* Pods-BlackStone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BlackStone.debug.xcconfig"; path = "Target Support Files/Pods-BlackStone/Pods-BlackStone.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -103,6 +104,7 @@
 				7F184576258FF88A0064D581 /* fibonacci.playground */,
 				7F184573258FF5640064D581 /* anagrams.playground */,
 				7F184570258FF39D0064D581 /* Operations.playground */,
+				7FF0BAFC259156C700753AA1 /* questionsAnswers */,
 			);
 			path = Tasks;
 			sourceTree = "<group>";

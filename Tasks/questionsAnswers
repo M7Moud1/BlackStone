@@ -1,0 +1,12 @@
+
+1 - I used
+    Alamofire for handle network request
+    RxSwift and RxCocoa for functional programing
+    RappleProgressHUD for progress loading
+    
+2- i usd MVP Pattern to reduce the lines of code in view controller
+    and make view controller doesn't know about data
+    all logic be in presenter
+    
+3- i will analysis the new feature and write describtion for it
+    and in which part will be in app and its dependencies
